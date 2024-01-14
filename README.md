@@ -1,2 +1,2 @@
-# helm-tutorial
-helm Chart examples and tutorial resoruces
+# helm-charts-demo
+helm Chart examples and  resoruces
